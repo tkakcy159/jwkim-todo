@@ -1,13 +1,14 @@
 # jwkim-page
 개인용 페이지 사이드프로젝트로 만들어보기
+마크다운 사용법 : https://gist.github.com/ihoneymon/652be052a0727ad59601
 
 ## TODO:job
-0. TODO LIST 만들기
-  * VueJS + NodeJS + NoSQL
-1. 한국투자증권 API 이용해서 내 투자정보 보기
-  * VueJS + SpringBoot + MySQL + Jenkins + docker
-2. 맛집 기록 사이트 만들기
-  * VueJS + NodeJS + MySQL + TravisCI + docker
+>TODO LIST 만들기 - https://github.com/tkakcy159/todo-list
+>  * VueJS + NodeJS + NoSQL
+>한국투자증권 API 이용해서 내 투자정보 보기
+>  * VueJS + SpringBoot + MySQL + Jenkins + docker
+>맛집 기록 사이트 만들기
+>  * VueJS + NodeJS + MySQL + TravisCI + docker
 
 ## TODO:skill
 0. NodeJS (좋은, 효율적인 프로젝트 구조 익히기)
