@@ -3,11 +3,14 @@
 
 ## TODO:job
 0. TODO LIST 만들기
+  * VueJS + NodeJS + NoSQL
 1. 한국투자증권 API 이용해서 내 투자정보 보기
+  * VueJS + SpringBoot + MySQL + Jenkins + docker
 2. 맛집 기록 사이트 만들기
+  * VueJS + NodeJS + MySQL + TravisCI + docker
 
 ## TODO:skill
-0. NodeJS
+0. NodeJS (좋은, 효율적인 프로젝트 구조 익히기)
 1. VueJS
 2. docker 사용법 (AND 개발환경을 docker image 로 만들기)
 3. git branch and merge 방법
