@@ -22,10 +22,15 @@
     VueJS + NodeJS + MySQL + TravisCI + docker
 
 ## TODO:skill
-0. NodeJS (좋은, 효율적인 프로젝트 구조 익히기)
-1. VueJS
-2. docker 사용법 (AND 서버 런타임 환경 docker image 로 만들기)
-3. git branch and merge 방법
-4. jenkins 사용법
-5. TravisCI 사용법
-6. TDD 연습하기
+* ECMA6 Script 공부해보기
+ㄴ함수형프로그래밍도...
+* NodeJS (좋은, 효율적인 프로젝트 구조 익히기)
+ㄴ인프런 Nodejs강좌 하루에 하나씩 들어보기
+* VueJS
+ㄴ인프런 VueJS강좌 산거 들어보기
+ㄴUI를 구성하는 방식, 조건, 원칙 등등 공부해보기
+* docker 사용법 (AND 서버 런타임 환경 docker image 로 만들기)
+* git branch and merge 방법
+* jenkins 사용법
+* TravisCI 사용법
+* TDD 연습하기
