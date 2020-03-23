@@ -27,7 +27,7 @@
 * NodeJS (좋은, 효율적인 프로젝트 구조 익히기)
 ㄴ인프런 Nodejs강좌 하루에 하나씩 들어보기
 * VueJS
-ㄴ인프런 VueJS강좌 산거 들어보기
+ㄴ인프런 VueJS강좌 산거 들어보기(Age-of-Vue)
 ㄴUI를 구성하는 방식, 조건, 원칙 등등 공부해보기
 * docker 사용법 (AND 서버 런타임 환경 docker image 로 만들기)
 * git branch and merge 방법
