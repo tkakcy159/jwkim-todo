@@ -20,6 +20,8 @@
 * 가계부 사이트 만들기 - https://github.com/tkakcy159/TODO-accountbook-project
 
     VueJS + NodeJS + MySQL + TravisCI + docker
+    
+* 목표달성 매니저 만들기(내폰 목표 앱 같은거)
 
 ## TODO:skill
 * ECMA6 Script 공부해보기
