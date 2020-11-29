@@ -5,19 +5,19 @@
 마크다운 사용법 : https://gist.github.com/ihoneymon/652be052a0727ad59601
 
 ## TODO:job
-* TODO LIST 만들기 - https://github.com/tkakcy159/TODO-todolist-project
+* TODO LIST 만들기 (TODO-todolist-project)
 
     VueJS + NodeJS + NoSQL(mongo
     
-* 한국투자증권 API 이용해서 내 투자정보 보기 - https://github.com/tkakcy159/TODO-stock-project
+* 한국투자증권 API 이용해서 내 투자정보 보기(TODO-stock-project)
   
     VueJS + SpringBoot + MySQL + Jenkins + docker
 
-* 맛집 기록 사이트 만들기 - https://github.com/tkakcy159/TODO-hotplace-project
+* 맛집 기록 사이트 만들기(TODO-hotplace-project)
 
     VueJS + NodeJS + MySQL + TravisCI + docker
     
-* 가계부 사이트 만들기 - https://github.com/tkakcy159/TODO-accountbook-project
+* 가계부 사이트 만들기(TODO-accountbook-project)
 
     VueJS + NodeJS + MySQL + TravisCI + docker
     
